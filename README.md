@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 <a href="https://app.daily.dev/Hamedjan"><img src="https://api.daily.dev/devcards/c840ea2a580242faa167b9a4a93fbd84.png?r=0zp" width="400" alt="Abdullahi's Dev Card"/></a>
 
+<a>![git](https://github.com/janabdullahi/Odoo-inheritance/assets/103871568/872d8e22-e25f-4b92-b6a3-e88d1672d951)</a>
+
