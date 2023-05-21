@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/janabdullahi"><img src="https://api.daily.dev/devcards/c840ea2a580242faa167b9a4a93fbd84.png?r=0zp" width="400" alt="Abdullahi's Dev Card"/></a>
+<a href="https://app.daily.dev/Hamedjan"><img src="https://api.daily.dev/devcards/c840ea2a580242faa167b9a4a93fbd84.png?r=0zp" width="400" alt="Abdullahi's Dev Card"/></a>
 
 <b> Offical Github</b>
 ![git](https://github.com/janabdullahi/Odoo-inheritance/assets/103871568/dbc142b2-7bdd-4a2f-9de5-6d2c38958cdc)
